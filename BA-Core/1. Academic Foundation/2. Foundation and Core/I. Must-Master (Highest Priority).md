@@ -4,7 +4,7 @@ You cannot analyze a business if you cannot read its scoreboard. These subjects 
 ---  
 
 ## I.1 Principles of Accounting
-### 1. Overview:
+## 1. Overview:
 If business is a sport, `Accounting` is the scoreboard. To be effective, you must understand whether a company is making or losing money, or what it owns versus what it owes. It is the source of truth for any business. You cannot analyze what you cannot read, and accounting is the alphabet of the corporate world.  
 ### This is one of the single most important subjects in the entire curriculum, and is essential in every situation of your working life.
 ### To master accounting, you must understand these pillars:
@@ -74,12 +74,12 @@ The systematic process (ETL - Extract, Transform, Load) of turning raw business 
 
 ---
 
-### 2. Application:
+## 2. Application:
 When you build an inventory management software, accounting knowledge helps you understand why the system must use "First-In, First-Out" (FIFO) and how an inventory scan automatically triggers a journal entry in the General Ledger.
 *   **Accounting is not Math, it’s Logic:** Do not fear the numbers; fear putting them in the wrong column. A great BA knows how to look at a weird number on a dashboard and trace it all the way back to the specific operational process that generated it (this is called the Audit Trail).
 *   **Learn the T-Account:** In the industry, if you want to understand how data flows through massive ERP systems like SAP or Oracle, mastering the visual T-Account is your ultimate cheat code.
 
-### 3. Recommended Sources
+## 3. Recommended Sources
 *   **"The Accounting Game: Basic Accounting Fresh from the Lemonade Stand" by Darrell Mullis:** A brilliant, stress-free book that teaches complex accounting concepts by simulating how to run a childhood lemonade stand. 
 *   **YouTube - "Accounting Stuff":** Excellent, highly visual breakdowns of Debits, Credits, and Financial Statements for absolute beginners.
 
