@@ -8,7 +8,7 @@
 - Principles of Macroeconomics
 - Applied Mathematics in Business and Trade
   
-## 2. Foundation and Core Courses
+## 2. Foundation and Core 
 - Introduction to Business Analysis
 - Business Law
 - Principles of Marketing
