@@ -167,22 +167,27 @@ If `Accounting` is the `"Scoreboard"`, `Corporate Finance` is the `"Strategy Pla
 - 
 ## 2. Application:
 ### 2.1. Project Appraisal (The $1M Question):
-Suppose your team wants to migrate the entire database to a high-end Cloud Infrastructure.Cost today: $1,000,000.Savings/Revenue increase: $300,000 per year for 5 years.Discount Rate (WACC): 10%.A BA calculates the NPV:$$NPV = \sum_{t=1}^{5} \frac{\$300,000}{(1+0.10)^t} - \$1,000,000 \approx \$137,236$$Since the NPV is positive, the BA presents this to the board as a value-creating project.
-2.2. Understanding "Cheap" Money:
+Suppose your team wants to migrate the entire database to a high-end Cloud Infrastructure.
+Cost today: $1,000,000.Savings/Revenue increase: $300,000 per year for 5 years.
+Discount Rate (WACC): 10%. A BA calculates the NPV: $$NPV = \sum_{t=1}^{5} \frac{\$300,000}{(1+0.10)^t} - \$1,000,000 \approx \$137,236$$  
+Since the NPV is positive, the BA presents this to the board as a value-creating project.
+
+### 2.2. Understanding "Cheap" Money:
 Why did companies like Apple or Microsoft borrow billions of dollars when they already had mountains of cash?
 Real Data: In 2020, Apple issued bonds at roughly 1-2% interest. Meanwhile, their R&D and investments were returning 15%+.
 BA Insight: This is Financial Leverage. Using Corporate Finance logic, a BA can prove that borrowing "cheap" debt to fund high-growth projects actually makes the company more valuable than using their own cash.
-2.3. Valuation for Strategic Partnerships:
+
+### 2.3. Valuation for Strategic Partnerships:
   If your company wants to acquire a smaller startup, a BA performs Discounted Cash Flow (DCF) analysis. You aren't just looking at what they own (Accounting); you are looking at what they will earn (Finance).
 
-3. Recommended Sources:
+## 3. Recommended Sources:
 Aswath Damodaran (YouTube/Blog): Known as the "Dean of Valuation." He is a professor at NYU who provides all his materials for free. He has a very "no-nonsense," dryly witty style and hates over-complicated finance jargon.
 "The Little Book of Valuation" by Aswath Damodaran: If you want to understand how to value a company (like Tesla or a local startup) in a weekend, this is the book.
 Investopedia (Corporate Finance Section): Their videos are short and often use funny analogies (like comparing a company’s capital structure to a "pizza" sliced in different ways) to explain complex topics.
 
-Closing Tip for your Roadmap: 
-Principles of Accounting tells you Where you are. 
-Managerial Accounting tells you What to do today.
-Corporate Finance tells you Where you are going in the long run.
-Master these three, and you will speak the language of the CEO more fluently than any other analyst in the room.
+# Closing Tip for your Roadmap: 
+## Principles of Accounting tells you Where you are. 
+## Managerial Accounting tells you What to do today.
+## Corporate Finance tells you Where you are going in the long run.
+## Master these three, and you will speak the language of the CEO more fluently than any other analyst in the room.
 
