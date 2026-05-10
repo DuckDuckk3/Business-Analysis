@@ -163,8 +163,10 @@ If your market research says only 50 hospitals will buy it, the BA must tell the
 If `Accounting` is the `"Scoreboard"`, `Corporate Finance` is the `"Strategy Playbook"`. It’s about managing two things: `Risk` and `Time`. In this world, a dollar today is not worth a dollar tomorrow, and a "safe" profit is worth more than a "risky" one.
 ## "Golden Rules" of Finance:
 - `Time Value of Money (TVM):` Cash has a "rent" price (interest). This is why we discount future cash flows back to the present.
-- `Net Present Value (NPV):` The ultimate "Go/No-Go" gauge. If the NPV is positive, the project creates value. If negative, it destroys it.Capital Structure: The mix of Debt (borrowing money) and Equity (selling a piece of the company). A BA helps find the "Optimal Mix" so the company doesn't go bankrupt from debt but doesn't give away too much ownership either.
-- 
+- `Net Present Value (NPV):` The ultimate "Go/No-Go" gauge. If the NPV is positive, the project creates value. If negative, it destroys it.
+- Capital Structure: The mix of Debt (borrowing money) and Equity (selling a piece of the company).
+A BA helps optimize so the company doesn't go bankrupt from debt but doesn't give away too much ownership either.
+
 ## 2. Application:
 ### 2.1. Project Appraisal (The $1M Question):
 Suppose your team wants to migrate the entire database to a high-end Cloud Infrastructure.  
