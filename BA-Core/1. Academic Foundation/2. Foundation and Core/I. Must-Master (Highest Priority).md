@@ -165,8 +165,9 @@ If `Accounting` is the `"Scoreboard"`, `Corporate Finance` is the `"Strategy Pla
 - `Time Value of Money (TVM):` Cash has a "rent" price (interest). This is why we discount future cash flows back to the present.
 - `Net Present Value (NPV):` The ultimate "Go/No-Go" gauge. If the NPV is positive, the project creates value. If negative, it destroys it.Capital Structure: The mix of Debt (borrowing money) and Equity (selling a piece of the company). A BA helps find the "Optimal Mix" so the company doesn't go bankrupt from debt but doesn't give away too much ownership either.
 - 
-2. Application:
-2.1. Project Appraisal (The $1M Question):Suppose your team wants to migrate the entire database to a high-end Cloud Infrastructure.Cost today: $1,000,000.Savings/Revenue increase: $300,000 per year for 5 years.Discount Rate (WACC): 10%.A BA calculates the NPV:$$NPV = \sum_{t=1}^{5} \frac{\$300,000}{(1+0.10)^t} - \$1,000,000 \approx \$137,236$$Since the NPV is positive, the BA presents this to the board as a value-creating project.
+## 2. Application:
+### 2.1. Project Appraisal (The $1M Question):
+Suppose your team wants to migrate the entire database to a high-end Cloud Infrastructure.Cost today: $1,000,000.Savings/Revenue increase: $300,000 per year for 5 years.Discount Rate (WACC): 10%.A BA calculates the NPV:$$NPV = \sum_{t=1}^{5} \frac{\$300,000}{(1+0.10)^t} - \$1,000,000 \approx \$137,236$$Since the NPV is positive, the BA presents this to the board as a value-creating project.
 2.2. Understanding "Cheap" Money:
 Why did companies like Apple or Microsoft borrow billions of dollars when they already had mountains of cash?
 Real Data: In 2020, Apple issued bonds at roughly 1-2% interest. Meanwhile, their R&D and investments were returning 15%+.
