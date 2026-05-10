@@ -7,6 +7,7 @@ You cannot analyze a business if you cannot read its scoreboard. These subjects 
 ## 1. Overview:
 If business is a sport, `Accounting` is the scoreboard. To be effective, you must understand whether a company is making or losing money, or what it owns versus what it owes. It is the source of truth for any business. You cannot analyze what you cannot read, and accounting is the alphabet of the corporate world.  
 ### This is one of the single most important subjects in the entire curriculum, and is essential in every situation of your working life.
+### When you actually learn this at university, almost every textbook has Financial Statements appear toward the end (typically Chapter 8 or 9). However, if you grasp the concept of Financial Statements from the very beginning, learning the bookkeeping entries (Debit/Credit) in the middle chapters becomes significantly easier. This is because you will always understand the "end goal"—exactly which final figure on the report your entry is intended to serve.
 ### To master accounting, you must understand these pillars:
 ## A. Foundational Assumptions (The Framework):
 These are the `ground rules` that define the boundaries and environment in which accounting operates.
