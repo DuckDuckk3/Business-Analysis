@@ -59,10 +59,14 @@ The systematic process (ETL - Extract, Transform, Load) of turning raw business 
 
 ## E. Financial Statements (Exceptionally Important)
 ### The final products used by investors, creditors, and management to make informed decisions.  
-- `Financial Statements` are far more than just "end-of-year paperwork"—they are the ultimate, high-fidelity dashboard where every `operational decision`, every `database entry`, and every `process optimization` finally meets the cold of reality. In the world of `Business Analysis`, these statements serve as the definitive `"Unit Test"` for your entire organizational logic; you can design the `best-on-paper` project ever, but if it doesn't eventually translate into a `healthier bottom line` on the `Income Statement` or a `stronger cash position` on the `Cash Flow Statement`, your project has failed its primary business objective.   
-- For investors and creditors, these documents act as a `non-negotiable` X-ray that cuts through corporate marketing hype to reveal the actual solvency and scalability of a firm, where the relationship between the "Holy Trinity"—`the Balance Sheet` ($Assets = Liabilities + Equity$), the `PnL (Profit and Loss)`, and the `Cash Flow` must reconcile perfectly to prove data integrity.  
-- From a `quantitative research` or `investment perspective`, mastering these statements is what allows you to `differentiate` between `"paper profit"` (an accounting opinion based on the Revenue Recognition principle) and `"actual cash"` (a physical fact), ensuring you don't back a `company` that is `technically profitable` but `functionally starving` for `liquidity`.  
-- Ultimately, if you don't understand the final product that the CEO and the board use to make `multi-million dollar decisions`, you are merely a `"technical observer"` rather than a `true strategic partner`.  
+- `Financial Statements` are far more than just "end-of-year paperwork"—they are the ultimate, high-fidelity dashboard where every `operational decision`, every `database entry`, and every `process optimization` finally meets the cold of reality. In the world of `Business Analysis`, these statements serve as the definitive `"Unit Test"` for your entire organizational logic; you can design the `best-on-paper` project ever, but if it doesn't eventually translate into a `healthier bottom line` on the `Income Statement` or a `stronger cash position` on the `Cash Flow Statement`, your project has failed its primary business objective.
+  
+- For investors and creditors, these documents act as a `non-negotiable` X-ray that cuts through corporate marketing hype to reveal the actual solvency and scalability of a firm, where the relationship between the "Holy Trinity"—`the Balance Sheet` ($Assets = Liabilities + Equity$), the `PnL (Profit and Loss)`, and the `Cash Flow` must reconcile perfectly to prove data integrity.
+  
+- From a `quantitative research` or `investment perspective`, mastering these statements is what allows you to `differentiate` between `"paper profit"` (an accounting opinion based on the Revenue Recognition principle) and `"actual cash"` (a physical fact), ensuring you don't back a `company` that is `technically profitable` but `functionally starving` for `liquidity`.
+  
+- Ultimately, if you don't understand the final product that the CEO and the board use to make `multi-million dollar decisions`, you are merely a `"technical observer"` rather than a `true strategic partner`.
+
 ### Financial Statements are the only language that truly scales from the database level all the way to the boardroom.
 
 | Statement | Time Nature | Purpose |
@@ -79,17 +83,17 @@ When you build an inventory management software, accounting knowledge helps you 
 *   **Accounting is not Math, it’s Logic:** Do not fear the numbers; fear putting them in the wrong column. A great BA knows how to look at a weird number on a dashboard and trace it all the way back to the specific operational process that generated it (this is called the Audit Trail).
 *   **Learn the T-Account:** In the industry, if you want to understand how data flows through massive ERP systems like SAP or Oracle, mastering the visual T-Account is your ultimate cheat code.
 
-## 3. Recommended Sources
+## 3. Recommended Sources:
 *   **"The Accounting Game: Basic Accounting Fresh from the Lemonade Stand" by Darrell Mullis:** A brilliant, stress-free book that teaches complex accounting concepts by simulating how to run a childhood lemonade stand. 
 *   **YouTube - "Accounting Stuff":** Excellent, highly visual breakdowns of Debits, Credits, and Financial Statements for absolute beginners.
 
 ---
 
 ## I.2 Managerial Accounting & Corporate Finance
-
-### 1. Overview
-While *Principles of Accounting* looks at the past (reporting to the government), **Managerial Accounting** and **Corporate Finance** look into the future. They provide the financial justification for your BA projects and help internal management make strategic choices.
+### 1. Overview:
+**Managerial Accounting** and **Corporate Finance** look into the future. They provide the financial justification for your BA projects and help internal management make strategic choices. 
 *   **Cost-Volume-Profit (CVP) Analysis:** Finding the break-even point. "How many units do we need to sell just to cover the cost of this new software?"
 *   **Variance Analysis:** Why did we spend $50,000 more than we budgeted? 
 *   **Capital Budgeting (NPV/IRR):** Deciding which projects are mathematically worth funding.
+  
 ### 2. Application
