@@ -3,9 +3,6 @@
 ---
 
 ## This repository serves as a centralized hub for mastering the intersection of business and technology, featuring:
-
----
-
 ### BA-Core: Critical documentation on business analysis methodologies, core competencies, and high-priority mental models.
 
 ---
