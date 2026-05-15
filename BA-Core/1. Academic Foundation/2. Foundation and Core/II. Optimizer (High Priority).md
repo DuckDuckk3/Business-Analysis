@@ -13,8 +13,9 @@ If a company is a human body, `BPM` is the set of "habits" and "movements" `(Pro
 
 ## BPM Lifecycle: 5-Step Loop
 To master BPM, you must understand the `continuous improvement loop`. You don't just fix once, you must do this process `again and again`.
+<p align="center">
 <img width="230" height="220" alt="image" src="https://github.com/user-attachments/assets/5fe0d255-47d3-4aed-a992-2e0c234a1edb" />
-
+</p>
 - `Design:` Identifying the existing process and the desired outcome. Who are the stakeholders? What is the goal?
 - `Model:` Creating a visual map (Should use **BPMN 2.0**) to represent the "As-Is" and "To-Be" states. This makes invisible work visible.
 - `Execute:` Implementing the process. This often involves using **MIS** (like an ERP system) to automate steps or guide employees through the new workflow.
