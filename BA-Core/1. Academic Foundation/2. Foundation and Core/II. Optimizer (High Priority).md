@@ -21,10 +21,15 @@ To master BPM, you must understand the `continuous improvement loop`. You don't 
 - `Model:` Creating a visual map (Should use **BPMN 2.0**) to represent the "As-Is" and "To-Be" states. This makes invisible work visible.
 - `Execute:` Implementing the process. This often involves using **MIS** (like an ERP system) to automate steps or guide employees through the new workflow.
 - `Monitor:` Tracking the process using KPIs. Is it faster or cheaper? Does this step slow down the progress? Try to find the `"Bottleneck"` (a point of congestion in a system that slows down or halts overall progress/ capacity).
-- `Optimize:` Using data from `Monitor` stage to `"tweak"` the process. Then, go back to the `Design` phase and repeat the progress.
+- `Optimize:` Using data from `Monitor` stage to `"tweak"` the process. Then, go back to the `Design` phase and repeat the process.
+
 <img width="711" height="410" alt="image" src="https://github.com/user-attachments/assets/6aca97d2-ba7b-42ed-9d5a-1ab0c98080a0" />
 
 <img width="257" height="196" alt="image" src="https://github.com/user-attachments/assets/d0cc3d5c-6edc-4e3f-ab9a-35008599eb87" />
+
+## 2. Application: "Order-to-cash" Speedrun:
+### Scenario: An e-commerce company takes 72 hours to ship a product after an order is placed. 
+In this scenario, 
 
 ---  
 
