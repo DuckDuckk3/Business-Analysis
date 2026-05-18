@@ -22,7 +22,7 @@ To master BPM, you must understand the `continuous improvement loop`. You don't 
 - `Execute:` Implementing the process. This often involves using **MIS** (like an ERP system) to automate steps or guide employees through the new workflow.
 - `Monitor:` Tracking the process using KPIs. Is it faster or cheaper? Does this step slow down the progress? Try to find the `"Bottleneck"` (a point of congestion in a system that slows down or halts overall progress/ capacity).
 - `Optimize:` Using data from `Monitor` stage to `"tweak"` the process. Then, go back to the `Design` phase and repeat the process.
-
+## BPMN 2.0 example:
 <p align="center">
 <img width="711" height="410" alt="image" src="https://github.com/user-attachments/assets/6aca97d2-ba7b-42ed-9d5a-1ab0c98080a0" />
 </p>
