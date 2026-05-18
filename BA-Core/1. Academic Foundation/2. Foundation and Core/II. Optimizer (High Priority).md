@@ -26,22 +26,21 @@ To master BPM, you must understand the `continuous improvement loop`. You don't 
 <p align="center">
 <img width="711" height="410" alt="image" src="https://github.com/user-attachments/assets/6aca97d2-ba7b-42ed-9d5a-1ab0c98080a0" />
 </p>
+
 ### This image is a BPMN diagram representing a supply chain and ordering workflow. In simple terms, it maps out a corporate "road trip" showing how a customer order goes from a request to either completion or rejection.
-The Flow Broken Down:
-The Trigger: The green circle on the far left represents the start event—a customer submits an Order Request.
+### Break Down:
+- The `green circle` on the far left represents the start event—a customer submits an Order Request.
+- `"Can Fulfill Order?"`: The diamond with the circle inside is a decision gateway, as the first order.
+  - `Path "Yes" (Top)`: If the manufacturer already has everything, they jump straight to `Order Confirmation` and `Deliver Order` to the customer.
+  - `Path "No" (Right)`: If they can't fulfill it at all, it goes to `Order Rejection`, and the process ends at the red circle `(End Event)`.
+  - `Path "Capacity OK, Parts must be ordered" (Bottom)`: This is the complex route. The manufacturer `has the capacity` but needs `raw materials` from a `Supplier (Procure Parts)`.
+- `Loop and Intermediate Events ("A" Circles)`: The little orange circles with arrows marked "A" are `link connectors` (teleports).
+  - If `All Parts Available?` is `Yes`, the process "teleports" up to the "A" at the top to finally confirm and deliver the customer's order.
+  - If `No`, it drops down to a `Part Auction` to bid for parts.
+    - If they win the auction (Yes), it `hits connector` "A" and loops back to confirmation.
+    - If they lose (No), the order is `ultimately rejected`.
 
-The First Decision ("Can Fulfill Order?"): The diamond with the circle inside is a decision gateway.
-
-Path "Yes" (Top): If the manufacturer already has everything, they jump straight to Order Confirmation and Deliver Order to the customer.
-
-Path "No" (Right): If they can't fulfill it at all, it goes to Order Rejection, and the process ends at the red circle (End Event).
-
-Path "Capacity OK, Parts must be ordered" (Bottom): This is the complex route. The manufacturer has the capacity but needs raw materials from a Supplier (Procure Parts).
-
-The Loop and Intermediate Events (The "A" Circles): * The little orange circles with arrows marked "A" are link connectors (teleports). If All Parts Available? is Yes, the process "teleports" up to the "A" at the top to finally confirm and deliver the customer's order.
-
-If No, it drops down to a Part Auction to bid for parts. If they win the auction (Yes), it hits connector "A" and loops back to confirmation. If they lose (No), the order is ultimately rejected.
-Insight: This diagram makes an invisible corporate process visible. As a BA, you look at this to find delays—for example, if the manual "Part Auction" stage is taking too long, that's a bottleneck you need to automate using software.
+### Insight: This diagram makes an invisible corporate process visible. As a BA, you look at this to find delays—for example, if the manual "Part Auction" stage is taking too long, that's a bottleneck you need to automate using software.
 
 <img width="257" height="196" alt="image" src="https://github.com/user-attachments/assets/d0cc3d5c-6edc-4e3f-ab9a-35008599eb87" />
 
