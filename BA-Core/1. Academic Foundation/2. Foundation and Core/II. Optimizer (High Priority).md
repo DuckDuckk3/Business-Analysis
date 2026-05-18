@@ -23,13 +23,21 @@ To master BPM, you must understand the `continuous improvement loop`. You don't 
 - `Monitor:` Tracking the process using KPIs. Is it faster or cheaper? Does this step slow down the progress? Try to find the `"Bottleneck"` (a point of congestion in a system that slows down or halts overall progress/ capacity).
 - `Optimize:` Using data from `Monitor` stage to `"tweak"` the process. Then, go back to the `Design` phase and repeat the process.
 
+<p align="center">
 <img width="711" height="410" alt="image" src="https://github.com/user-attachments/assets/6aca97d2-ba7b-42ed-9d5a-1ab0c98080a0" />
+</p>
 
 <img width="257" height="196" alt="image" src="https://github.com/user-attachments/assets/d0cc3d5c-6edc-4e3f-ab9a-35008599eb87" />
 
 ## 2. Application: "Order-to-cash" Speedrun:
 ### Scenario: An e-commerce company takes 72 hours to ship a product after an order is placed. 
 In this scenario, 
+**Scenario:** An e-commerce company takes 72 hours to ship a product after an order is placed.  
+A BA models the process and discovers that the "Credit Check" step is done manually every morning at 9 AM. Then, they automate it by integrating the MIS with a payment gateway to automate credit verification. The results? The cycle time drops from 72 hours to 4 hours. By optimizing the process, you didn't just save time; you increased customer satisfaction and reduced the `Holding Cost` of inventory.
+  
+## 3. Recommended Sources
+*   **"Fundamentals of Business Process Management" by Dumas et al.:** The definitive guide to the `5-step lifecycle` and `BPMN logic`.
+*   **YouTube - "BPMN Center":** Best for learning how to draw professional process models.
 
 ---  
 
