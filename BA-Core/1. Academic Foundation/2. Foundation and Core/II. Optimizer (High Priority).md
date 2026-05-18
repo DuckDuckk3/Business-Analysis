@@ -42,7 +42,53 @@ To master BPM, you must understand the `continuous improvement loop`. You don't 
 
 ### Insight: This diagram makes an invisible corporate process visible. As a BA, you look at this to find delays—for example, if the manual "Part Auction" stage is taking too long, that's a bottleneck you need to automate using software.
 
-<img width="257" height="196" alt="image" src="https://github.com/user-attachments/assets/d0cc3d5c-6edc-4e3f-ab9a-35008599eb87" />
+## Management Information Systems (MIS)
+If the first image is the map of how a business moves, this `second image` represents the `engine components` that make it `run`. A MIS is not just software; it is an interconnected ecosystem designed to turn raw data into strategic operational decisions.
+
+<table>
+<tr>
+<td width="420" align="center">
+
+<img width="400" alt="image"
+src="https://github.com/user-attachments/assets/d0cc3d5c-6edc-4e3f-ab9a-35008599eb87" />
+
+</td>
+
+<td valign="top">
+
+## 8 Pillars of a MIS
+
+- **Data & Information:**  
+  Data is `raw facts` (such as millions of transaction logs).  
+  `Information` is that data `cleaned, structured, and given context`
+  (such as *"Sales dropped 5% this morning"*).
+
+- **Software & Hardware 🖱️**  
+  The technical tools (databases, ERP software like SAP, cloud servers)
+  used to store and process information.
+
+- **People 👥**  
+  The users who interact with the system.  
+  `Systems are useless without people operating them.`
+
+- **Analysis & Evaluation 🔍📊**  
+  The processing stage where you `query the data`
+  to discover trends, evaluate performance,
+  and run metrics.
+
+- **Efficiency ⚡**  
+  The operational goal.  
+  A well-designed MIS eliminates manual paperwork,
+  speeds up workflows, and reduces human error.
+
+- **Decision ✅**  
+  The ultimate output of an MIS.  
+  It provides the dashboard a CEO uses
+  to confidently make a multi-million-dollar decision.
+
+</td>
+</tr>
+</table>
 
 ## 2. Application: Order to cash
 ### Scenario: An e-commerce company takes 72 hours to ship a product after an order is placed. 
